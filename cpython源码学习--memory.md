@@ -189,6 +189,7 @@ usable_arenas
 gc add 3/14/2017 7:13:19 PM
 actully, this is very tricky. To cheat C compile every element is poolp type, but the realy situation is: 
 </font>
+
 ![memory allocation in cpython](https://www.processon.com/chart_image/58c7cf10e4b0897e6c31bfe7.png)
 
 ----------
